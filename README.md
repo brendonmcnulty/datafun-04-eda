@@ -24,22 +24,22 @@ The primary dataset for this module is the Iris dataset, a classic dataset in da
 
 ## Notebook Checklist
 
-- [x] Notebook has exactly one Markdown title (with a single hash).
-- [x] Notebook has useful Markdown header cell with author and purpose, and date.
-- [x] Notebook uses numbered second-level Markdown headings for organization.
-- [x] Notebook has numbered sections with useful content for:
-  - [x] 1. Imports
-  - [x] 2. Load Data
-  - [x] 3. Initial Data Inspection
-  - [x] 4. Initial Descriptive Statistics
-  - [x] 5a. Initial Data Distribution for Numerical Columns
-  - [x] 5b. Initial Data Distribution for Categorical Columns
-  - [x] 6. Initial Data Transformation and Feature Engineering
-  - [x] 7. Initial Visualizations
-  - [x] 8. Initial Insights
-  - [x] 9. Storytelling and Presentation
-- [x] Notebook includes commentary after each section that tells a data story.
-- [x] Code and visuals are working, notebook is fully executed and on display in GitHub.
+- [] Notebook has exactly one Markdown title (with a single hash).
+- [] Notebook has useful Markdown header cell with author and purpose, and date.
+- [] Notebook uses numbered second-level Markdown headings for organization.
+- [] Notebook has numbered sections with useful content for:
+  - [] 1. Imports
+  - [] 2. Load Data
+  - [] 3. Initial Data Inspection
+  - [] 4. Initial Descriptive Statistics
+  - [] 5a. Initial Data Distribution for Numerical Columns
+  - [] 5b. Initial Data Distribution for Categorical Columns
+  - [] 6. Initial Data Transformation and Feature Engineering
+  - [] 7. Initial Visualizations
+  - [] 8. Initial Insights
+  - [] 9. Storytelling and Presentation
+- [] Notebook includes commentary after each section that tells a data story.
+- [] Code and visuals are working, notebook is fully executed and on display in GitHub.
 
 ## Getting Started
 1. Clone the repository from GitHub.
