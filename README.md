@@ -22,6 +22,25 @@ The primary dataset for this module is the Iris dataset, a classic dataset in da
 └── README.md                    # Project overview and documentation
 ```
 
+## Notebook Checklist
+
+- [x] Notebook has exactly one Markdown title (with a single hash).
+- [x] Notebook has useful Markdown header cell with author and purpose, and date.
+- [x] Notebook uses numbered second-level Markdown headings for organization.
+- [x] Notebook has numbered sections with useful content for:
+  - [x] 1. Imports
+  - [x] 2. Load Data
+  - [x] 3. Initial Data Inspection
+  - [x] 4. Initial Descriptive Statistics
+  - [x] 5a. Initial Data Distribution for Numerical Columns
+  - [x] 5b. Initial Data Distribution for Categorical Columns
+  - [x] 6. Initial Data Transformation and Feature Engineering
+  - [x] 7. Initial Visualizations
+  - [x] 8. Initial Insights
+  - [x] 9. Storytelling and Presentation
+- [x] Notebook includes commentary after each section that tells a data story.
+- [x] Code and visuals are working, notebook is fully executed and on display in GitHub.
+
 ## Getting Started
 1. Clone the repository from GitHub.
 2. Create and activate a virtual environment:
@@ -39,8 +58,9 @@ The primary dataset for this module is the Iris dataset, a classic dataset in da
 
 ## Usage
 - Run the cells in `brendon_eda_notebook.ipynb` step by step.
-- Explore the dataset, generate descriptive statistics, and create visualizations.
-- Add markdown commentary as you go to explain findings and insights.
+- Review commentary after each section for explanations and insights.
+- Use this as a model for building clear, story-driven data analysis notebooks.
 
 ## License
 This project is for educational purposes as part of the Data Analytics Fundamentals course.
+
